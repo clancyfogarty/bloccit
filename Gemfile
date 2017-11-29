@@ -50,3 +50,6 @@ end
 
 #Adding bootstrap framework gem
 gem 'bootstrap-sass'
+
+# Used for encrypting passwords
+gem 'bcrypt'
